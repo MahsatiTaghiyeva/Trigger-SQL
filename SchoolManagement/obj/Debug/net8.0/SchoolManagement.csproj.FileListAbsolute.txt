@@ -1,0 +1,4 @@
+C:\Users\mahsatist\source\repos\SchoolManagement\SchoolManagement\obj\Debug\net8.0\SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahsatist\source\repos\SchoolManagement\SchoolManagement\obj\Debug\net8.0\SchoolManagement.AssemblyInfoInputs.cache
+C:\Users\mahsatist\source\repos\SchoolManagement\SchoolManagement\obj\Debug\net8.0\SchoolManagement.AssemblyInfo.cs
+C:\Users\mahsatist\source\repos\SchoolManagement\SchoolManagement\obj\Debug\net8.0\SchoolManagement.csproj.CoreCompileInputs.cache
